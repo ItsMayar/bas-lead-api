@@ -1,0 +1,14 @@
+{
+  "name": "bas-lead-api",
+  "version": "1.0.0",
+  "description": "Backend API for tracking BAS leads and freelancer applications",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
